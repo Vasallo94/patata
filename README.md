@@ -1,6 +1,6 @@
 # PATATA
 Funciones útiles con Python para DataScience
 
-![](potato-cat.gif)
+<img src="potato-cat.gif" width="250" height="250"/>
 
 #### SE MANTENDRÁ ACTUALIZADO CON DIFERENTES FUNCIONES Y CLASES CREADAS POR LA COMUNIDAD
