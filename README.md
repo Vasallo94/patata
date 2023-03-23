@@ -38,38 +38,38 @@ We would like to express our gratitude to our data Sensei, for their invaluable 
 
 ### GPT4 POEMA EN ESPAÑOL SOBRE LA PATATA : 
 
-En las profundidades de la tierra nace,
-Un tesoro oculto que la vida complace.
-La humilde patata, raíz de la vida,
-Nutriente esencial, por siempre bienvenida.
+En las profundidades de la tierra nace, <br> 
+Un tesoro oculto que la vida complace. <br> 
+La humilde patata, raíz de la vida, <br> 
+Nutriente esencial, por siempre bienvenida. <br> 
 
 
-De piel áspera y rústica, pero de corazón tierno,
-En cada plato y cultura, un sabor sempiterno.
-Con sus formas diversas, cada una, un misterio,
-De sus entrañas brota el calor del hogar, el alma del entierro.
+De piel áspera y rústica, pero de corazón tierno, <br> 
+En cada plato y cultura, un sabor sempiterno. <br> 
+Con sus formas diversas, cada una, un misterio, <br> 
+De sus entrañas brota el calor del hogar, el alma del entierro. <br> 
 
 
-Dorada y crujiente, en deliciosas frituras,
-O cocida y humeante, en suculentas mixturas.
-Puré suave y esponjoso, que el paladar acaricia,
-La patata en sus múltiples formas, es pura delicia.
+Dorada y crujiente, en deliciosas frituras, <br> 
+O cocida y humeante, en suculentas mixturas. <br> 
+Puré suave y esponjoso, que el paladar acaricia, <br> 
+La patata en sus múltiples formas, es pura delicia. <br> 
 
 
-Por campos y praderas, en cada rincón del mundo,
-Se alza la planta verde, al viento, al sol, fecundo.
-Sus raíces, como dedos, la tierra acarician,
-En busca de nutrientes, en busca de vida.
+Por campos y praderas, en cada rincón del mundo, <br> 
+Se alza la planta verde, al viento, al sol, fecundo. <br> 
+Sus raíces, como dedos, la tierra acarician, <br> 
+En busca de nutrientes, en busca de vida. <br> 
 
 
-Oh, patata adorada, símbolo de humildad,
-Tus virtudes nutricias, nos dan felicidad.
-En ti encontramos fuerza, sustento y calma,
-Eres la sencillez de la vida, en cada alma.
+Oh, patata adorada, símbolo de humildad, <br> 
+Tus virtudes nutricias, nos dan felicidad. <br> 
+En ti encontramos fuerza, sustento y calma, <br> 
+Eres la sencillez de la vida, en cada alma. <br> 
 
 
-Eres alimento, arte y tradición,
-Lienzo de creatividad, y de amor la expresión.
-Patata, poesía y vida, en ti se entrelazan,
-Te celebramos hoy, como fuente de esperanza.
+Eres alimento, arte y tradición, <br> 
+Lienzo de creatividad, y de amor la expresión. <br> 
+Patata, poesía y vida, en ti se entrelazan, <br> 
+Te celebramos hoy, como fuente de esperanza. <br> 
 
