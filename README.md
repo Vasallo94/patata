@@ -36,3 +36,40 @@ We welcome contributions from anyone interested in data science. If you are a st
 ## Acknowledgments
 We would like to express our gratitude to our data Sensei, for their invaluable guidance and support throughout our journey in data science. We would also like to thank the open-source community for their contributions to the tools and technologies used in this repository.
 
+### GPT4 POEMA EN ESPAÑOL SOBRE LA PATATA : 
+
+En las profundidades de la tierra nace,
+Un tesoro oculto que la vida complace.
+La humilde patata, raíz de la vida,
+Nutriente esencial, por siempre bienvenida.
+
+
+De piel áspera y rústica, pero de corazón tierno,
+En cada plato y cultura, un sabor sempiterno.
+Con sus formas diversas, cada una, un misterio,
+De sus entrañas brota el calor del hogar, el alma del entierro.
+
+
+Dorada y crujiente, en deliciosas frituras,
+O cocida y humeante, en suculentas mixturas.
+Puré suave y esponjoso, que el paladar acaricia,
+La patata en sus múltiples formas, es pura delicia.
+
+
+Por campos y praderas, en cada rincón del mundo,
+Se alza la planta verde, al viento, al sol, fecundo.
+Sus raíces, como dedos, la tierra acarician,
+En busca de nutrientes, en busca de vida.
+
+
+Oh, patata adorada, símbolo de humildad,
+Tus virtudes nutricias, nos dan felicidad.
+En ti encontramos fuerza, sustento y calma,
+Eres la sencillez de la vida, en cada alma.
+
+
+Eres alimento, arte y tradición,
+Lienzo de creatividad, y de amor la expresión.
+Patata, poesía y vida, en ti se entrelazan,
+Te celebramos hoy, como fuente de esperanza.
+
