@@ -9,7 +9,6 @@ You can install Patata Poderosa using pip:
 ```bash
 pip install patata-poderosa
 
-¡Claro! Aquí está el README.md para patata-poderosa:
 
 csharp
 Copy code
