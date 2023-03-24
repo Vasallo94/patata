@@ -19,16 +19,20 @@ def fritas(df):
     Returns:
     - df_encoded: pandas DataFrame
     """
-    # Make a copy of the input DataFrame
-    df_encoded = df.copy()
-    # Select object columns (categorical) of df_encoded
-    object_columns = df_encoded.select_dtypes(include=["object"]).columns
-    # Iterate over each categorical column and apply Label Encoding
+    df_encoded = df.copy()  # Make a copy of the original DataFrame
+    object_columns = df_encoded.select_dtypes(include=["object"]).columns  # Select the categorical columns of the DataFrame
+    encoder_info = []  # Initialize a list to store the encoder information
+    
     for column in object_columns:
-        le = LabelEncoder()
-        df_encoded[column] = le.fit_transform(df_encoded[column].astype(str))
-    # Return a copy of the encoded DataFrame
-    return df_encoded
+        le = LabelEncoder()  # Create a new LabelEncoder for each categorical column
+        df_encoded[column] = le.fit_transform(df_encoded[column].astype(str))  # Fit and transform the LabelEncoder on the column
+        encoder_info.append({  # Store the encoder information in a dictionary
+            'column': column,
+            'labels': list(le.classes_),  # List the original labels
+            'codes': list(le.transform(le.classes_))  # List the encoded codes
+        })
+        
+    return df_encoded, encoder_info  # Return the encoded DataFrame and the encoder information
 
 
 def bravas(df, target_column, min_k=2, max_k=15):
