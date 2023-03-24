@@ -4,7 +4,7 @@ Patatas is a Python package that provides tools for preprocessing and modeling d
 
 ## Installation
 
-You can install Patata Poderosa using pip:
+You can install Patatas using pip:
 
 ```bash
 pip install patatas
@@ -69,5 +69,5 @@ Implement your feature or bug fix.
 Run the tests and ensure they pass.
 Submit a pull request.
 License
-Patata Poderosa is released under the MIT License. See the LICENSE file for more details.
+Patatas is released under the MIT License. See the LICENSE file for more details.
 
