@@ -9,10 +9,6 @@ You can install Patatas using pip:
 pip install patatas
 
 
-# Patatas
-
-Patata Poderosa is a Python package that provides tools for preprocessing and modeling data using machine learning algorithms.
-
 ## Installation
 
 ### Usage
