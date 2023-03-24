@@ -10,8 +10,6 @@ You can install Patata Poderosa using pip:
 pip install patata-poderosa
 
 
-csharp
-Copy code
 # Patata Poderosa
 
 Patata Poderosa is a Python package that provides tools for preprocessing and modeling data using machine learning algorithms.
