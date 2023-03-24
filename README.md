@@ -13,16 +13,12 @@ pip install patatas
 
 Patata Poderosa is a Python package that provides tools for preprocessing and modeling data using machine learning algorithms.
 
-```bash
 ## Installation
 
-You can install Patata Poderosa using pip:
-
-
-pip install patatas
-Usage
+### Usage
 Encoding categorical columns
 To encode all categorical (object) columns of a pandas DataFrame using Label Encoding, you can use the fritas() function:
+```bash
 
 from patatas import fritas
 import pandas as pd
@@ -35,15 +31,7 @@ df_encoded = fritas(df)
 
 # Show the encoded DataFrame
 print(df_encoded)
-
-# Create a sample DataFrame with categorical columns
-df = pd.DataFrame({'Color': ['Red', 'Green', 'Blue'], 'Size': ['Small', 'Medium', 'Large']})
-
-# Encode categorical columns using Label Encoding
-df_encoded = fritas(df)
-
-# Show the encoded DataFrame
-print(df_encoded)
+```
 
 
 Finding the best value of k for K-NN regression
@@ -56,13 +44,13 @@ import pandas as pd
 
 # Load a sample dataset
 df = pd.read_csv('my_dataset.csv')
-```bash
 
 # Find the best value of k for K-NN regression
 best_k = bravas(df, 'target_column')
 print(f'The best value of k is {best_k}')
 Contributing
 Contributions to Patata Poderosa are welcome! To contribute, please follow these steps:
+```
 
 Fork the repository and create a new branch for your feature or bug fix.
 Write tests for your changes.
