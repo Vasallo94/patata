@@ -1,5 +1,8 @@
 # Patatas 
 
+[PATATAS](https://pypi.org/project/patatas/)
+
+
 Patatas is a Python package that provides tools for preprocessing and modeling data using machine learning algorithms.
 
 ## Installation
