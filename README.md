@@ -18,14 +18,12 @@ Patata Poderosa is a Python package that provides tools for preprocessing and mo
 
 You can install Patata Poderosa using pip:
 
-```bash
+
 pip install patatas
 Usage
 Encoding categorical columns
 To encode all categorical (object) columns of a pandas DataFrame using Label Encoding, you can use the fritas() function:
 
-python
-Copy code
 from patatas import fritas
 import pandas as pd
 
@@ -46,16 +44,19 @@ df_encoded = fritas(df)
 
 # Show the encoded DataFrame
 print(df_encoded)
+
+
 Finding the best value of k for K-NN regression
 To find the best value of k (number of neighbors) for K-NN regression based on the mean squared error, you can use the bravas() function:
 
-python
-Copy code
+
+```bash
 from patatas import bravas
 import pandas as pd
 
 # Load a sample dataset
 df = pd.read_csv('my_dataset.csv')
+```bash
 
 # Find the best value of k for K-NN regression
 best_k = bravas(df, 'target_column')
